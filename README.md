@@ -1,14 +1,19 @@
-# Python Assignment - Module 3: Control Structures
+module
 
-## Task 1: Even or Odd Checker
-- Takes an integer input from the user.
-- Uses if-else to check if the number is even or odd.
-- Prints the result.
+Task 1: Factorial Function
 
-## Task 2: Sum from 1 to 50
-- Uses a for loop to calculate the sum of numbers from 1 to 50.
-- Prints the final sum.
+Defines a factorial() function that calculates factorial using recursion
+Takes a number as argument and returns the factorial value
+Includes sample function call with printed output
 
-## Files:
-- task1_even_odd.py
-- task2_sum_1_to_50.py
+Task 2: Math Module Calculations
+
+Takes user input for a number
+Uses math module to calculate:
+
+Square root of the number
+Natural logarithm (log base e)
+Sine of the number (in radians)
+
+
+Displays all calculated results
